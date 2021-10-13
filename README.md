@@ -8,6 +8,7 @@ if there is it sends a signal to the camera which captures what it is in front o
 its face converts to and 128 column vector and  compares it with the database (for example the owners relative) if it is not
 known it will send a message to the owner and captured photo of the robber through email to the owner
 
+[](/images/Capture.PNG)
 
 # [Project 2: crop-recomendation](https://github.com/sam23121/crop-recomendation)
 a classification problem that is able to predict which crop is good for which type of soil
