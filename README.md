@@ -18,7 +18,7 @@ then sends it to the python script and trains it based 6 diffrent machine learni
 # [Project 3: Summarization](https://github.com/sam23121/summarization)
 a natural languguage problem that recieves long story and output a summary of the story
 
-# [Project 4: sentiment_analysis](# [Project 2: crop-recomendation](https://github.com/sam23121/crop-recomendation))
+# [Project 4: sentiment_analysis](https://github.com/sam23121/crop-recomendation)
 sentiment analysis done on amazon customer that did
 -data analysis and visualization
 -data cleaning
@@ -26,3 +26,4 @@ sentiment analysis done on amazon customer that did
 -handling data imbalancing
 -doing cross validation by using gridsearch and then doing predictions
 -automating the model
+for the dataset follow this link https://www.kaggle.com/joychakraborty2000/amazon-customers-data
