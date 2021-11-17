@@ -5,7 +5,7 @@ data science portfolio
 using convolution neural networks I classified ethiopian new currency with great accuracy...by using different trained models and fine tuning them vgg16 and mobilenet yeild the greatest result but since the mobilenet model was much smaller in size than the vgg16 mobilenet was the model with the best outcome                                                 . Data was hand collected from banks and consited of different types(all 4 notes 10, 50, 100, 200 that are new torned sherreded and written)                                         , there is a gui that was bulit using tkinter for display                                                                                                                        .......ongoing work is exceding this to counterfiet detection and trying to close the data imbalance between real and counterfiet data by GAN and changing the GUI to an andriod app
 ....The dataset can be found here https://drive.google.com/drive/folders/1XpsgRghZlKChTGABNOv1nee3lYbLhQDL?usp=sharing
 
-![](/images/resized_gui.jpeg)
+![](/images/resized_gui.jpg)
 
 # [Project 2: smart-anti-theft-system](https://github.com/sam23121/smart-anti-theft-system)
 a smart anti theft system by using computer vision that can be used for one door way room or small office
@@ -14,7 +14,7 @@ if there is it sends a signal to the camera which captures what it is in front o
 its face converts to and 128 column vector and  compares it with the database (for example the owners relative) if it is not
 known it will send a message to the owner and captured photo of the robber through email to the owner
 
-![](/images/resized_Capture.jpeg)
+![](/images/resized_Capture.jpg)
 
 # [Project 3: crop-recomendation](https://github.com/sam23121/crop-recomendation)
 a classification problem that is able to predict which crop is good for which type of soil
