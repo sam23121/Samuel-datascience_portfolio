@@ -52,8 +52,12 @@ it uses two different algorthims Kmeans and heriarchial clustering
 ![](/images/dentograms.PNG)
 ![](/images/clustering_using_by_heriarchial.PNG)
 
+# [Project 7: stock_headlines](https://github.com/sam23121/stock_head)
+it predicts if the stock has gone up or down based on the headlines of a newspaper that has 25 topics(headlines). 
+it does data preprocessing, data wrangling and merging, data visualization. it was trained on random forest and naive bayes
 
 
+![](/images/cm.PNG)
 
 
 
