@@ -48,8 +48,8 @@ it's a project that clusters specfic groups of mall customers to use for target 
 it uses two different algorthims Kmeans and heriarchial clustering
 
 ![](/images/the_elbow_method.PNG)
-![](/images/clustering_centriod.PNG)
-![](/images/dentogram.PNG)
+![](/images/cluster_centriod.PNG)
+![](/images/dentograms.PNG)
 ![](/images/clustering_using_by_heriarchial.PNG)
 
 
