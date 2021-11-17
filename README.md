@@ -47,8 +47,10 @@ sentiment analysis done on amazon customer that did
 it's a project that clusters specfic groups of mall customers to use for target marketing. it clusters the mall customers using Unsupervised learning specifically
 it uses two different algorthims Kmeans and heriarchial clustering
 
-![](/images/the elbow method.PNG)![](/images/dentogram.PNG)
-![](/images/clustering using kmeans.PNG)![](/images/clustering using by heriarchial.PNG)
+![](/images/the_elbow_method.PNG)
+![](/images/clustering_centriod.PNG)
+![](/images/dentogram.PNG)
+![](/images/clustering_using_by_heriarchial.PNG)
 
 
 
