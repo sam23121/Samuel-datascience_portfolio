@@ -28,7 +28,7 @@ a natural languguage problem that recieves long story and output a summary of th
 its an online_ads recommendation system that used Reinforcement learning. It uses two algorithms which are Upper bound Confidence and Thompson sampling. a dataset has been used as 
 stimulation for the online process
 
-![](/images/UCB.PNG)![](/images/thompson.PNG)
+![](/images/UCB.PNG)![](/images/thompsn.PNG)
 
 
 # [Project 6: sentiment_analysis](https://github.com/sam23121/sentiment_analysis)
