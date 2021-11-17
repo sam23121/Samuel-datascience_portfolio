@@ -43,6 +43,13 @@ sentiment analysis done on amazon customer that did
 
 ![](/images/analysis.PNG)
 
+# [Project 7: Clustering](https://github.com/sam23121/clustering_mall.git)
+it's a project that clusters specfic groups of mall customers to use for target marketing. it clusters the mall customers using Unsupervised learning specifically
+it uses two different algorthims Kmeans and heriarchial clustering
+
+![](/images/the elbow method.PNG)![](/images/dentogram.PNG)
+![](/images/clustering using kmeans.PNG)![](/images/clustering using by heriarchial.PNG)
+
 
 
 
