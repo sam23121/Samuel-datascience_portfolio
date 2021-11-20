@@ -57,7 +57,6 @@ it predicts if the stock has gone up or down based on the headlines of a newspap
 it does data preprocessing, data wrangling and merging, data visualization. it was trained on random forest and naive bayes
 
 
-![](/images/cm.PNG)
 
 
 
