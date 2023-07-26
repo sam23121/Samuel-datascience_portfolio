@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Data  Projects
-description: This repository is my data related portifolio repository that I have created through self-directed learning. The repository contains data analysis, computer vision, NLP, and A/B testing projects.
+description: This repository is the data-related portfolio repository I created through self-directed learning. The repository contains Data Engineering, Data Analysis, Machine learning, Computer Vision, NLP, A/B testing, and other projects.
 # logo: smlal.jpg
 show_downloads: true
 footer-links:
