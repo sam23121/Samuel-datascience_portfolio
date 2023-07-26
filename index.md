@@ -1,4 +1,5 @@
-The repository contains data analysis, predictive analytics, computer vision, NLP, and A/B testing projects developed through self-directed learning.
+This repository is the data-related portfolio repository I created through self-directed learning. The repository contains Data Engineering, Data Analysis, Machine learning, Computer Vision, NLP, A/B testing, and other projects.
+
 
 ### Data Engineering Projects
 - [Python Package for lidar data points](https://github.com/sam23121/agritech)
