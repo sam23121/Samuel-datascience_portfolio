@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+title: Data  Projects
+description: This repository is my data related portifolio repository that I have created through self-directed learning. The repository contains data analysis, computer vision, NLP, and A/B testing projects.
+# logo: smlal.jpg
+show_downloads: true
+footer-links:
+  email: smlalene@gmail.com
+  github: sam23121
+  linkedin: https://www.linkedin.com/in/samuel-alene-230309215/
