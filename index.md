@@ -1,5 +1,12 @@
 This repository is the data-related portfolio repository I created through self-directed learning. The repository contains Data Engineering, Data Analysis, Machine learning, Computer Vision, NLP, A/B testing, and other projects.
 
+### Blogs
+- [The challenges and solutions working with Amharic datasets](https://medium.com/@smlalene/the-challenges-and-solutions-working-with-amharic-datasets-a1248a7b1372)
+- [Data warehouse tech stack with PostgreSQL, DBT, Airflow](https://medium.com/@smlalene/data-warehouse-tech-stack-with-postgresql-dbt-airflow-35dfb7e743f8)
+- [Speech-to-text data collection with Kafka, Airflow, and Spark](https://medium.com/@smlalene/speech-to-text-data-collection-with-kafka-airflow-and-spark-fd74d34c6c7e)
+- [Automatic Speech Recognition for African languages](https://medium.com/@smlalene/automatic-speech-recognition-for-african-languages-1a9726e280d4)
+- [Pharmaceuticals prediction sales using machine learning](https://medium.com/@smlalene/pharmaceuticals-prediction-sales-using-machine-learning-329f7e244cb3)
+  
 
 ### Data Engineering Projects
 - [Python Package for lidar data points](https://github.com/sam23121/agritech)
