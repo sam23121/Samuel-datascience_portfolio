@@ -17,7 +17,7 @@ This repository is the data-related portfolio repository I created through self-
 - [A Migration Project for previous Data Pipeline](https://github.com/sam23121/migrations)
 
 ### Machine Learning Projects
-- [live Crop Recommendation feedback with Arduino with best practices in MLOPS]((https://github.com/sam23121/crop-recomendation))
+- [live Crop Recommendation feedback with Arduino with best practices in MLOPS](https://github.com/sam23121/crop-recomendation)
 - [Detection of Breast Cancer using Causal Inference](https://github.com/sam23121/Breast_cancer)
   
 ### Computer Vision Projects
