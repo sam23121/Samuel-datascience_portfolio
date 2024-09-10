@@ -8,7 +8,7 @@ This repository is the data-related portfolio repository I created through self-
 - [Automatic Speech Recognition for African languages](https://medium.com/@smlalene/automatic-speech-recognition-for-african-languages-1a9726e280d4)
 - [Pharmaceuticals prediction sales using machine learning](https://medium.com/@smlalene/pharmaceuticals-prediction-sales-using-machine-learning-329f7e244cb3)
   
-### LLM
+### Generative AI
 - [A RAG-Powered Cooking Assistant](https://github.com/sam23121/ChefAssistAI)
 
 ### Data Engineering Projects
